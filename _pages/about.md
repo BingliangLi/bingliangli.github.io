@@ -12,6 +12,7 @@ table {
 }
 table, th, td {
    border: none;
+   font-size: 18px;
 }
 blockquote {
     border-left: none;
