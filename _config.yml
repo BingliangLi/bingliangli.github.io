@@ -23,7 +23,7 @@ repository               : "bingliangli/bingliangli.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Bingliang Li"
+  # name             : "Bingliang Li"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen"
