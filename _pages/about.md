@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Bingliang Li"
 author_profile: true
 redirect_from: 
   - /about/
