@@ -24,7 +24,7 @@ blockquote {
 <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 Hello there! I am Bingliang Li. If everything goes with the plan, I will start my PhD journey at the University of New South Wales in late 2025, co-supervised by these legends: [Dr Huadong Mo](https://www.unsw.edu.au/staff/huadong-mo), [Dr Dong Gong](https://www.unsw.edu.au/staff/dong-gong) (Joint), [Professor Daoyi Dong](https://eng.anu.edu.au/people/daoyi-dong/) (Secondary), [Dr Yawen Chen](https://www.unsw.edu.au/staff/wendy-chen) (Secondary). Previously, I obtained my master's degree from The Chinese University of Hong Kong, Shenzhen, supervised by [Professor Ruimao Zhang](http://www.zhangruimao.site/)👍, and a bachelor's degree from Lanzhou University. I also worked as an Algorithm Engineer at Xiaomi AI Lab.
 
-Currently, my research focuses on open-world multimodal perception and generation, including image, audio, video, and more. My long-term research goal is to build an interactive system for high-quality video generation and editing. You are welcome to contact me via the Email on the left!
+Currently, my research focuses on open-world multimodal perception and generation, including image, audio, video, and more. My long-term research goal is to build an interactive system for high-quality video generation and editing. You are welcome to contact me via Email! bing.liang.li[at]outlook[dot]com
 
 # News
 
