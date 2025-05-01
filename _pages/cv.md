@@ -9,7 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+[Download](../files/Bingliang_Li_CV.pdf)
+
+<div
+  style="
+    float: left;
+    width: 95%;
+    max-width: 600px;
+    height: 80vh;
+    margin: 1em;
+    overflow: hidden;
+  "
+>
+  <iframe
+    src="../files/Bingliang_Li_CV.pdf#zoom=page-fit&toolbar=0"
+    style="width: 100%; height: 100%; border: 0;"
+    aria-label="Embedded PDF — float right"
+  ></iframe>
+</div>
+
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +85,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
