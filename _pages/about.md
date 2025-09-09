@@ -61,5 +61,6 @@ Reviewer for Conferences:
 
 1. Neural Information Processing Systems (NeurIPS) -- 2025
 2. ACM Multimedia (ACM MM) -- 2023, 2024, 2025
+3. AAAI Conference on Artificial Intelligence (AAAI) -- 2026
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=300&t=tt&d=vqpfuHPN4SRXJYZrsJjwPsNqPT96rfjntKKjp42hh_4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
