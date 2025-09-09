@@ -47,7 +47,7 @@ Jiong Wang\*, Fengyu Yang\*, **Bingliang Li**, Wenbo Gou, Danqi Yan, Ailing Zeng
 IEEE Conference on Computer Vision and Pattern Recognition ( **CVPR** ), 2024
 
 [**Dance with You: The Diversity Controllable Dancer Generation via Diffusion Models**](https://arxiv.org/abs/2308.13551)<br />
-Siyue Yao, Mingjie Sun, **Bingliang Li**, Fengyu Yang, Junle Wang, Ruimao Zhang<br />
+Siyue Yao\*, Mingjie Sun\*, **Bingliang Li**, Fengyu Yang, Junle Wang, Ruimao Zhang<br />
 ACM Multimedia ( **ACM MM** ), 2023
 
 # Experiences
