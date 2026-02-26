@@ -22,7 +22,8 @@ blockquote {
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-Hello there! I am Bingliang Li. <s>If everything goes with the plan</s>, I will start my PhD journey at the University of New South Wales in <s>late 2025</s> <s>early 2026</s> mid 2026, co-supervised by these legends: [Professor Huadong Mo](https://www.unsw.edu.au/staff/huadong-mo), [Dr Yuekang Li](https://www.unsw.edu.au/staff/yuekang-li) (Joint), [Professor Haibo Zhang](https://www.unsw.edu.au/staff/haibo-zhang) (Secondary). Previously, I obtained my master's degree from The Chinese University of Hong Kong, Shenzhen, supervised by [Professor Ruimao Zhang](http://www.zhangruimao.site/)👍, and a bachelor's degree from Lanzhou University. I also worked as an Algorithm Engineer at Xiaomi AI Lab.
+Hello there! I am Bingliang Li. <s>If everything goes with the plan</s>, I will start my PhD journey at the University of New South Wales in <s>late 2025</s> <s>early 2026</s> mid 2026, co-supervised by these legends: [Professor Huadong Mo](https://www.unsw.edu.au/staff/huadong-mo), [Dr Yuekang Li](https://www.unsw.edu.au/staff/yuekang-li) (Joint), [Professor Haibo Zhang](https://www.unsw.edu.au/staff/haibo-zhang) (Secondary). Previously, I obtained my master's degree from The Chinese University of Hong Kong, Shenzhen, supervised by [Professor Ruimao Zhang](http://www.zhangruimao.site/)👍, and a bachelor's degree from Lanzhou University.
+<!-- I also worked as an Algorithm Engineer at Xiaomi AI Lab. -->
 
 Currently, my research focuses on open-world multimodal perception and generation, including image, audio, video, and more. My long-term research goal is to build an interactive system for high-quality video generation and editing. You are welcome to contact me via Email! bing.liang.li[at]outlook[dot]com
 
@@ -53,7 +54,7 @@ ACM Multimedia ( **ACM MM** ), 2023
 # Experiences
 
 vivo | Research Intern | 2023 - 2024
-Xiaomi AI Lab | Algorithm Engineer | 2024 - 2025
+<!-- Xiaomi AI Lab | Algorithm Engineer | 2024 - 2025 -->
 
 # Academic Activity
 
