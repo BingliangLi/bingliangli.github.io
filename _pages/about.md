@@ -54,6 +54,7 @@ ACM Multimedia ( **ACM MM** ), 2023
 # Experiences
 
 vivo | Research Intern | 2023 - 2024
+
 <!-- Xiaomi AI Lab | Algorithm Engineer | 2024 - 2025 -->
 
 # Academic Activity
