@@ -29,12 +29,18 @@ Currently, my research focuses on open-world multimodal perception and generatio
 
 # News
 
+- One paper accepted to NeurIPS 2026.
 - StoryBlender is accepted to ECCV 2026, finished at home, literaly and proudly, with a single 4070 SUPER!
 - Tri-Ergon is accepted to AAAI 2025, work done at vivo.
 - Two papers accepted to CVPR 2024!
 - One paper accepted to ACM MM 2023.
 
 # Publications
+
+[**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**](https://arxiv.org/abs/2606.26964)<br />
+Jiaming Bian, **Bingliang Li**, Yuehao Wu, Pichao Wang, Zhi Wang, Hailan Ma, Huadong Mo, Zhenhong Sun<br />
+Neural Information Processing Systems ( **NeurIPS** ), 2026<br />
+🌐 [Homepage](https://engineeringai-lab.github.io/Look-Before-Move/)
 
 [**StoryBlender: Inter-Shot Consistent and Editable 3D Storyboard with Spatial-temporal Dynamics**](https://arxiv.org/abs/2604.03315)<br />
 **Bingliang Li**, Zhenhong Sun, Jiaming Bian, Yuehao Wu, Yifu Wang, Hongdong Li, Yatao Bian, Huadong Mo, Daoyi Dong<br />
